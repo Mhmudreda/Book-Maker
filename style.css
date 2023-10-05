@@ -1,0 +1,19 @@
+
+
+.container h2
+{
+    color: rgba(0,0, 0, .4);
+}
+.box
+{
+    background-color: rgba(0, 0, 0, .2);
+}
+.table
+{
+    background-color: rgba(0, 0, 0, .2);
+}
+a{
+    color: white;
+    text-decoration-line: none;
+    
+}
